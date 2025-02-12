@@ -14,6 +14,22 @@
   "signals": [
     {"id": "X2_ODO1", "path": "Trips", "fmt": {           "len": 32, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer #1", "suggestedMetric": "odometer"},
     {"id": "X2_ODO2", "path": "Trips", "fmt": {"bix": 32, "len": 32, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer #2", "suggestedMetric": "odometer"}
+  ]},
+{ "hdr": "6F1", "rax": "660", "eax": "60", "fcm1": true, "cmd": {"22": "D111"}, "freq": 0.5,
+  "signals": [
+    {"id": "X2_D111", "path": "aTest", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "D111_00"}
+  ]},
+{ "hdr": "6F1", "rax": "660", "eax": "60", "fcm1": true, "cmd": {"22": "D112"}, "freq": 0.5,
+  "signals": [
+    {"id": "X2_D112", "path": "aTest", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "D112_00"}
+  ]},
+{ "hdr": "6F1", "rax": "660", "eax": "60", "fcm1": true, "cmd": {"22": "D113"}, "freq": 0.5,
+  "signals": [
+    {"id": "X2_D113", "path": "aTest", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "D113_00"}
+  ]},
+{ "hdr": "6F1", "rax": "660", "eax": "60", "fcm1": true, "cmd": {"22": "D114"}, "freq": 0.5,
+  "signals": [
+    {"id": "X2_D114", "path": "aTest", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "D114_00"}
   ]}
 ]
 }
