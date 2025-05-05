@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation (F39)"
+    start_year: 2018
+    end_year: 2023
+    description: "The original BMW X2 was positioned as a sportier, coupe-inspired alternative to the X1. Built on the same UKL platform, it featured a more aggressive design with a lower roofline, distinctive C-pillar roundels reminiscent of classic BMW coupes, and the first modern implementation of a forward-leaning kidney grille. The interior was largely shared with the X1 but with sportier accents. Engine options included a range of four-cylinder petrol and diesel units, with front-wheel drive on lower models and xDrive all-wheel drive on higher variants. The performance-oriented M35i model offered 302 HP, making it one of the most powerful four-cylinder BMW models at the time. While sacrificing some practicality compared to the X1, the X2 appealed to buyers seeking more distinctive styling in a compact crossover package."
+
+  - name: "Second Generation (U10)"
+    start_year: 2023
+    end_year: null
+    description: "The current X2 represents a significant redesign, adopting a larger, more traditional coupe-SUV silhouette similar to the X4 and X6, rather than the hatchback-like profile of its predecessor. Based on the latest UKL platform shared with the third-generation X1, it features a more pronounced sloping roofline but has grown in all dimensions. The interior adopts BMW's latest technology including the curved display combining digital instruments and infotainment. Powertrain options include mild-hybrid petrol and diesel engines, a plug-in hybrid variant, and for the first time, an all-electric iX2. The performance-focused M35i xDrive offers an upgraded 312 HP engine with enhanced suspension and braking. This generation positions the X2 more clearly as a style-focused alternative to the X1 while offering similar technology and features in a more distinctive package."
